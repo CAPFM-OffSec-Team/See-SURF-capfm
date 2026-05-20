@@ -8,7 +8,7 @@ setup(
     install_requires=open('requirements.txt').read().splitlines(),
     entry_points={
         'console_scripts': [
-            'see-surf=see_surf:scan',
+            'see_surf=see_surf:scan',
         ],
     },
 )
