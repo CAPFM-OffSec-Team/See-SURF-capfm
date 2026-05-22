@@ -20,7 +20,7 @@ import openai
 import anthropic
 import time
 import hashlib
-from oobe import OOBEHandler
+from see_surf.oobe import OOBEHandler
 
 
 banner="""
