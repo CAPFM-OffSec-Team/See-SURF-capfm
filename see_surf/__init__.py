@@ -2,7 +2,7 @@ import subprocess
 import sys
 from pathlib import Path
 
-_SCRIPT = Path(__file__).parent / "see_surf.py"
+_SCRIPT = Path(__file__).parent / "see-surf.py"
 
 
 def scan(
