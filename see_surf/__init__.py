@@ -1,7 +1,7 @@
+from __future__ import print_function # Only Python 2.x
 import subprocess
 import sys
 from pathlib import Path
-from __future__ import print_function # Only Python 2.x
 
 _SCRIPT = Path(__file__).parent / "see-surf.py"
 
