@@ -1,0 +1,13 @@
+LICENSE
+README.md
+setup.py
+see_surf/__init__.py
+see_surf/__main__.py
+see_surf/oobe.py
+see_surf/see-surf.py
+see_surf.egg-info/PKG-INFO
+see_surf.egg-info/SOURCES.txt
+see_surf.egg-info/dependency_links.txt
+see_surf.egg-info/entry_points.txt
+see_surf.egg-info/requires.txt
+see_surf.egg-info/top_level.txt

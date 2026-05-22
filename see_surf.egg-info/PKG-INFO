@@ -1,0 +1,16 @@
+Metadata-Version: 2.4
+Name: see_surf
+Version: 0.1.0
+Requires-Python: >=3.10
+License-File: LICENSE
+Requires-Dist: BeautifulSoup4
+Requires-Dist: requests
+Requires-Dist: google-genai
+Requires-Dist: absl-py
+Requires-Dist: ollama
+Requires-Dist: openai
+Requires-Dist: anthropic
+Requires-Dist: pycryptodome
+Dynamic: license-file
+Dynamic: requires-dist
+Dynamic: requires-python

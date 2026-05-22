@@ -1,0 +1,8 @@
+BeautifulSoup4
+requests
+google-genai
+absl-py
+ollama
+openai
+anthropic
+pycryptodome
